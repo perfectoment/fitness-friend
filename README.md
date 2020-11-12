@@ -5,7 +5,7 @@ I created a fitness tracking application that was built with Express, Node.js an
 
 ## Screenshot of Application
 
-![Screenshot of Application](public\img\workoutpic.PNG)
+![Screenshot of Application](public/img/workoutpic.PNG)
 
 ## Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
